@@ -22,7 +22,7 @@ This project focuses on exploring HR data to uncover insights about employee att
 - Heatmaps of Tenure vs Attrition
 - Dynamic Filters (Department, Age Group, Gender, Marital Status)
 
-![Dashboard Screenshot](insert_your_screenshot_link_here)
+![Dashboard Screenshot]([image](https://github.com/user-attachments/assets/298c2ea7-48cb-4a41-99c0-bda0eff9b2b5))
 
 ## 💡 Business Insights
 - R&D had the highest attrition (28%) — major concern for technical continuity
